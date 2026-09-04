@@ -199,7 +199,7 @@ print("Test Accuracy:", accuracy)
 
 ## 👩‍💻 Author
 
-**Catherine.P**
+**Dharshani.D**
 
 BCA Student | AI & Machine Learning Enthusiast
 
